@@ -1,4 +1,4 @@
-# Locker
+# Shared Locker
 
 For the configure module, we take locker_id,k,L as the inputs and generate k-random distinct
 primes. Initially I assumed at least one of the primes must be greater than k-th root of L. I use
